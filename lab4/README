@@ -1,0 +1,6 @@
+Aluno: Luan Marko Kujavski
+GRR20221236
+
+Usage: python3 forms.py <input_dataset> <output_images>
+
+O código gerará um arquivo results.txt contendo todas as informações do programa

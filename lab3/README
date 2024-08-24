@@ -1,0 +1,6 @@
+Luan Marko Kujavski
+GRR20221236
+
+use: python3 noise.py <image>
+
+AVISO: ajuste o número de imagens na linha 292 para não ter uma pasta de tamanho muito grande. O número que usei foi 200.
